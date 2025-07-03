@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yousef Naam
 
 - 🎓 **Computer Science @ Rutgers University** (Graduating Jan 2026)  
-- 🌟 Passionate about automation, cloud, and software engineering  
+- 🌟 Passionate about Software Engineering and AI/ML
 - 🇺🇸 US Citizen
 
 ---
