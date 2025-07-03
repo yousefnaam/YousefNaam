@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Yousef Naam
 
-<!--
-**yousefnaam/YousefNaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Computer Science @ Rutgers University** (Graduating Jan 2026)  
+- 🌟 Passionate about automation, cloud, and software engineering  
+- 🇺🇸 US Citizen
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+
+- **Software Engineering Intern @ Wells Fargo** (Incoming, Summer 2025)
+- **Software Engineering Intern @ Lockheed Martin** (Summer 2024)  
+  Enhanced automation and cloud infrastructure
+---
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+C/C++, Python, Java, JavaScript, HTML/CSS, TypeScript, R, SQL/MySQL
+
+**Tools & Frameworks:**  
+AWS, React, Node.js, Terraform, Ansible, PyTorch, TensorFlow, Git, GitLab, Qt, Linux/Unix
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/yousefnaam)
+
