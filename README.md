@@ -2,8 +2,6 @@
 
 - 🎓 **Computer Science @ Rutgers University** (Graduating Jan 2026)  
 - 🌟 Passionate about Software Engineering and AI/ML
-- 🇺🇸 US Citizen
-
 ---
 
 ## 💼 Experience
