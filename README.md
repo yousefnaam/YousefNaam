@@ -10,7 +10,6 @@
 
 - **Software Engineering Intern @ Wells Fargo** (Current, Summer 2025)
 - **Software Engineering Intern @ Lockheed Martin** (Summer 2024)  
-  Enhanced automation and cloud infrastructure
 ---
 
 ## 🛠️ Technical Skills
